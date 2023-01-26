@@ -1,4 +1,3 @@
-import Image from "next/image";
 import React from "react";
 import NavItems from "./components/NavItems";
 import OutlinedBtn from "./components/OutlinedBtn";

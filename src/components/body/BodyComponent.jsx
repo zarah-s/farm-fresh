@@ -1,14 +1,5 @@
-import Image from "next/image";
 import React from "react";
-import styles from "../../styles/Home.module.css";
-import NewsCard from "./components/NewsCard";
-import ProductCard from "./components/ProductCard";
-import Stars from "./components/Stars";
-import TestimonialCard from "./components/TestimonialCard";
 import TitleContent from "./components/TitleContent";
-
-import InputField from "./components/InputField";
-import CatalogueCard from "./components/CatalogueCard";
 import AboutSection from "./sections/AboutSection";
 import NewsSection from "./sections/NewsSection";
 import ProductsSection from "./sections/ProductsSection";

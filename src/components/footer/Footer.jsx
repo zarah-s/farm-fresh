@@ -6,17 +6,10 @@ const Footer = () => {
     <footer className="p-5 bg-black sm:p-6 ">
       <div className="md:flex md:justify-between">
         <div className="mb-6 md:mb-0">
-          {/* <a href="https://flowbite.com/" className="flex items-center"> */}
-          {/* <img
-                src="https://flowbite.com/docs/images/logo.svg"
-                className="mr-3 h-8"
-                alt="FlowBite Logo"
-              /> */}
           <span className="self-center text-3xl font-bold whitespace-nowrap text-[#3C7B88]">
             Farmfresh
           </span>
           <p className="text-gray-600">farmfresh is a blah blah blah blah</p>
-          {/* </a> */}
         </div>
         <div className="grid grid-cols-2 lg:grid-cols-2 lg:gap-11 gap-8 sm:gap-6 sm:grid-cols-2">
           <div>
